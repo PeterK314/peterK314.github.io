@@ -7,7 +7,7 @@ site_name: "Peter's - Geospatial Portfolio"
 site_description: "Portfolio of Peter Kowalczyk — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Peter Kowalczyk"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-site_url: "https://peterK314.github.io/your-repo-name"
+site_url: "https://peterK314.github.io"
 
 theme:
   name: material
